@@ -6,9 +6,9 @@
 
 # 使用
 
-1.下载npm 包
+## 下载npm 包
 `` npm install ``
-2.执行
-`` npm run serve ``
+## 执行
+npm run serve ``
 
 
